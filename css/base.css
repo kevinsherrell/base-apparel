@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  background-color: green; }
+
+.outer-wrapper {
+  display: flex; }
+
+.hero-non-mobile {
+  text-align: right; }
